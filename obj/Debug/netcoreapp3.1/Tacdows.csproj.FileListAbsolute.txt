@@ -1,0 +1,13 @@
+E:\MAYANK ALL FILE\os\Tacdows\bin\Debug\netcoreapp3.1\Tacdows.exe
+E:\MAYANK ALL FILE\os\Tacdows\bin\Debug\netcoreapp3.1\Tacdows.deps.json
+E:\MAYANK ALL FILE\os\Tacdows\bin\Debug\netcoreapp3.1\Tacdows.runtimeconfig.json
+E:\MAYANK ALL FILE\os\Tacdows\bin\Debug\netcoreapp3.1\Tacdows.runtimeconfig.dev.json
+E:\MAYANK ALL FILE\os\Tacdows\bin\Debug\netcoreapp3.1\Tacdows.dll
+E:\MAYANK ALL FILE\os\Tacdows\bin\Debug\netcoreapp3.1\Tacdows.pdb
+E:\MAYANK ALL FILE\os\Tacdows\obj\Debug\netcoreapp3.1\Tacdows.csprojAssemblyReference.cache
+E:\MAYANK ALL FILE\os\Tacdows\obj\Debug\netcoreapp3.1\Tacdows.AssemblyInfoInputs.cache
+E:\MAYANK ALL FILE\os\Tacdows\obj\Debug\netcoreapp3.1\Tacdows.AssemblyInfo.cs
+E:\MAYANK ALL FILE\os\Tacdows\obj\Debug\netcoreapp3.1\Tacdows.csproj.CoreCompileInputs.cache
+E:\MAYANK ALL FILE\os\Tacdows\obj\Debug\netcoreapp3.1\Tacdows.dll
+E:\MAYANK ALL FILE\os\Tacdows\obj\Debug\netcoreapp3.1\Tacdows.pdb
+E:\MAYANK ALL FILE\os\Tacdows\obj\Debug\netcoreapp3.1\Tacdows.genruntimeconfig.cache
