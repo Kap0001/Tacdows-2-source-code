@@ -29,7 +29,7 @@ namespace Tacdows
             Console.ReadLine();
 
             Console.Clear();
-            Console.WriteLine("notepad)
+            Console.WriteLine("notepad")
             Console.Readline();
         }
     }
